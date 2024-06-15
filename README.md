@@ -1,5 +1,4 @@
 <div align="center">
-    <img width=35% src="./data/media/FTPLogo.png">
     <h1>FTP Server Client</h1>
     <img alt="Status" src="https://img.shields.io/badge/Status-Complete-green">
     <img alt="Python Version" src="https://img.shields.io/badge/Python-v3.8%2B-blue">
